@@ -9,7 +9,7 @@
 
 ```
 - python3.9 -m pip install virtualenv
-- python 3.9 -m virtualenv .venv
+- python3.9 -m virtualenv .venv
 - source .venv/bin/activate
 - pip install -r requirements.txt
 - dagster dev -f repo.py
